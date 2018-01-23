@@ -25,6 +25,76 @@ wheels/
 .installed.cfg
 *.egg
 
+
+
+
+
+*.anaconda/
+*.android/
+*.bash_history
+*.condarc
+*.config/
+*.enstaller4rc
+*.gitconfig
+*.idlerc/
+*.ipython/
+*.jupyter/
+*.matplotlib/
+*.minttyrc
+*.oracle_jre_usage/
+*.spyder-py3/
+*.test.rb.swp
+*.viminfo
+*.xmind/
+3D Objects/
+AppData/
+Basics.ipynb
+Contacts/
+Data-analysis/
+Desktop/
+Documents/
+Evernote/
+Favorites/
+*.ini
+IntelGraphicsProfiles/
+Links/
+MicrosoftEdgeBackups/
+Music/
+NTUSER.DAT
+NTUSER.DAT{0a66b40b-f5c6-11e7-be23-b05adad605a5}.TM.blf
+NTUSER.DAT{0a66b40b-f5c6-11e7-be23-b05adad605a5}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{0a66b40b-f5c6-11e7-be23-b05adad605a5}.TMContainer00000000000000000002.regtrans-ms
+OneDrive - to.tbst.edu.au/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Untitled.ipynb
+Untitled1.ipynb
+Untitled10.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+Untitled4.ipynb
+Untitled5.ipynb
+Untitled7.ipynb
+Untitled8.ipynb
+Untitled9.ipynb
+Videos/
+array_archive.npz
+dwhelper/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.pol
+simon20170901.github.io/
+some_array.npy
+wentbiz.github.io/
+wentbiz/
+
+
+
+
+
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
